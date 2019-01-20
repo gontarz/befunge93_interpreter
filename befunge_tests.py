@@ -1,4 +1,4 @@
-from .Befunge_93_interpreter import DataTable, Run, Stack
+from .interpreter import DataTable, Run, Stack
 
 import unittest
 
